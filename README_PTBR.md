@@ -680,3 +680,9 @@ Confira [Contributing.md](./docs/CONTRIBUTING.md) para aprender como integrar fe
  > [tcsenpai](https://github.com/tcsenpai) e [plitc](https://github.com/plitc) por ajudar na dockerização do backend
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Fosowl/agenticSeek&type=Date)](https://www.star-history.com/#Fosowl/agenticSeek&Date)
+
+---
+
+> **Contact:** Mulky Malikul Dhaher — [mulkymalikuldhaher@email.com](mailto:mulkymalikuldhaher@email.com)
+>
+> **Disclaimer:** This project is for Education Purpose only. Risiko apapun tidak kita tanggung. (We are not responsible for any risks or damages.)

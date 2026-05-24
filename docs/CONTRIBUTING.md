@@ -326,3 +326,9 @@ The Web agent controls a Selenium-driven browser. Upon receiving a query, it beg
 See CODE_OF_CONDUCT.md
 
 **Thank You!**
+
+---
+
+> **Contact:** Mulky Malikul Dhaher — [mulkymalikuldhaher@email.com](mailto:mulkymalikuldhaher@email.com)
+>
+> **Disclaimer:** This project is for Education Purpose only. Risiko apapun tidak kita tanggung. (We are not responsible for any risks or damages.)

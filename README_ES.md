@@ -680,3 +680,9 @@ Cualquier cuenta de AgenticSeek en X además de mi cuenta personal (https://x.co
  > [tcsenpai](https://github.com/tcsenpai) y [plitc](https://github.com/plitc) por ayudar con la dockerización del backend
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Fosowl/agenticSeek&type=Date)](https://www.star-history.com/#Fosowl/agenticSeek&Date)
+
+---
+
+> **Contact:** Mulky Malikul Dhaher — [mulkymalikuldhaher@email.com](mailto:mulkymalikuldhaher@email.com)
+>
+> **Disclaimer:** This project is for Education Purpose only. Risiko apapun tidak kita tanggung. (We are not responsible for any risks or damages.)
